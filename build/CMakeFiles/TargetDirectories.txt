@@ -1,0 +1,3 @@
+C:/Users/andre/Nextcloud/Projetos/C Projects/OnCamera/build/CMakeFiles/oncamera.dir
+C:/Users/andre/Nextcloud/Projetos/C Projects/OnCamera/build/CMakeFiles/edit_cache.dir
+C:/Users/andre/Nextcloud/Projetos/C Projects/OnCamera/build/CMakeFiles/rebuild_cache.dir
