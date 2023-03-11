@@ -1,0 +1,3 @@
+C:/Users/andre/Projects/OnCamera/build/windows/CMakeFiles/oncamera.dir
+C:/Users/andre/Projects/OnCamera/build/windows/CMakeFiles/edit_cache.dir
+C:/Users/andre/Projects/OnCamera/build/windows/CMakeFiles/rebuild_cache.dir

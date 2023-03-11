@@ -1,0 +1,3 @@
+/mnt/c/Users/andre/Projects/OnCamera/.buildlinux/CMakeFiles/oncamera.dir
+/mnt/c/Users/andre/Projects/OnCamera/.buildlinux/CMakeFiles/edit_cache.dir
+/mnt/c/Users/andre/Projects/OnCamera/.buildlinux/CMakeFiles/rebuild_cache.dir
